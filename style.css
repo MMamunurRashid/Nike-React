@@ -1,0 +1,27 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.bg-color {
+  background-color: #fff9f4;
+}
+.fsize {
+  font-size: 2.5em;
+}
+.Banner-section {
+  margin-top: 100px;
+}
+.buy-button {
+  background-image: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.Services {
+  margin-top: 200px !important;
+}
+.icons {
+  width: 20%;
+  height: 20%;
+}
